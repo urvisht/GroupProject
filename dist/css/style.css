@@ -1,26 +1,45 @@
 html{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background:url("../img/sand.jpg")no-repeat;
-  background-size:cover;
-  color:yellowgreen;
+  background-color: black;
+  color: royalblue;
   text-decoration:none;
 }
-#main h2{
+h2{
   text-align:center;
-  font-size:35px;
-  padding-bottom:30px;
+  font-size:65px;
+}
+#menu{
+  padding: 0;
 }
 #menu a,li{
   text-align:justify;
   display:inline;
-  padding-left:1px;
+  padding-left:2px;
   font-size:22px;
+
 }
-a{
+#git{
+  padding-left: 41%;
+}
+#img{
+  width: 25%;
+  padding-left: 40%;
+}
+#repo{
+  width: 25%;
+  height: 30%;
+  padding-left: 40%;
+}
+#image{
+  width: 30%;
+  padding-left: 40%;
+  height: 70px;
+}
+a, li{
   color:wheat;
   text-decoration:none;
 }
-a:hover{color:deepskyblue}
+a:hover{color:royalblue}
 #top h3{
   text-align:center;
   font-size:28px;
@@ -28,17 +47,25 @@ a:hover{color:deepskyblue}
   padding-bottom:20px;
 }
 #top h4{
-  text-align:center;
+  text-align:justify;
   color:dodgerblue;
   font-size: 25px;
+  padding: 0% 2%;
 }
 p{
-  color:lightskyblue;
+  color: powderblue;
   padding: 0% 5%;
+  font-size: 22px;
 }
 #topic{
-  font-size: 22px;
+  font-size: 25px;
+  color: lightskyblue;
 }
 footer{
   text-align:center;
+}
+#main {
+  width: 1208px;
+  margin-left: auto;
+  margin-right: auto;
 }

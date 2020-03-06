@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="afs">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Afs">
     <serverData>
       <paths name="Afs">
         <serverdata>
           <mappings>
-            <mapping deploy="history117" local="$PROJECT_DIR$/dist" web="/history117" />
+            <mapping deploy="html5-boilerplate1" local="$PROJECT_DIR$/" web="/html5-boilerplate1" />
           </mappings>
         </serverdata>
       </paths>
